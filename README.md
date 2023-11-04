@@ -11,7 +11,6 @@
 - [Installation Procedure](#installation-procedure)
 - [Features](#features)
 - [Troubleshooting &amp; FAQs](#troubleshooting-and-faqs)
-- [Warnings](#warnings)
 - [Credits](#credits)
 - [Licence](#licence)
 
@@ -55,12 +54,17 @@ Frequently, it is a prevalent practice to adhere to fixed time intervals when co
 
 
 ### **Troubleshooting and FAQs**
-Have to Fill
+Q. What is the purpose of building this project?
+A. The primary issue at hand pertains to the determination of whether an immediate oil change is warranted in order to sustain optimal performance levels of the vehicle.
 
+Q. Which sensors are being used in this project?
+A. Viscosity Sensor (Thermal Sensors) and MLX 90614 infrared sensor.
 
-### **Warnings**
-Have to Fill
+Q. What is the purpose of using a microprocessor in this system ?
+A. To process the data collected from the sensor, convert it into human readable format and then send it to the shared cloud.
 
+Q. What is the purpose of using a shared cloud in this system ?
+A. To store the data collected from the sensor and to make it accessible to the mandate persons.
 
 ### **Credits**
 - Varun Bhattacharya - <a href="https://www.linkedin.com/in/varunbhattacharya/">LinkedIn</a>, <a href="https://www.instagram.com/varunbhattacharya.in/">Instagram</a>, <a href="https://github.com/VarunBhattacharya/">GitHub</a>
