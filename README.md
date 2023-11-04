@@ -76,11 +76,12 @@ A. To store the data collected from the sensor and to make it accessible to the 
 
 ### **Licence**
 <!-- This project is under <a href="https://mit-license.org/">MIT licence</a>. -->
-This project is under <a href="LICENSE.md">MIT licence</a>.
+This project is under <a href="https://github.com/VarunBhattacharya/oilQuad/blob/main/LICENSE">MIT licence</a>.
 
 
 
 <hr>
 <center>
-    Made with &#10084;&#65039; by Varun Bhattacharya & Ketan Agrawal
+    <!-- Made with &#10084;&#65039; by Varun Bhattacharya & Ketan Agrawal -->
+    Made with &#129504; by Varun Bhattacharya & Ketan Agrawal
 </center>
