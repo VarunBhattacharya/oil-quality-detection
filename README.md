@@ -18,8 +18,7 @@
 
 
 ### **Demonstration**
-![oilQuad](assets/oilQuad_Presentation.mp4)
-
+https://github.com/VarunBhattacharya/oilQuad/assets/76221455/1a4bc780-3991-459e-a0d9-a5335287951d
 
 ### **Business Problem**
 Frequently, it is a prevalent practice to adhere to fixed time intervals when considering the replacement of car engine oil for the purpose of enhancing performance. However, this approach rooted in assumed time intervals can be characterized as inefficient, potentially detrimental to the vehicle's performance, and financially burdensome. There exists a significant concern that the engine oil may not necessarily require replacement before the stipulated time interval, or conversely, it may be necessary to do so after the designated timeframe. The primary issue at hand pertains to the determination of whether an immediate oil change is warranted in order to sustain optimal performance levels of the vehicle.
