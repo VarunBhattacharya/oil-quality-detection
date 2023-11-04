@@ -45,7 +45,13 @@ Frequently, it is a prevalent practice to adhere to fixed time intervals when co
 
 
 ### **Features**
-Have to Fill
+- Usage of a custom viscometric device to determine car oil change intervals.
+- Usage of a viscosity sensor within or external to the car engine oil tube through non-invasive techniques to facilitate the measurement of oil viscosity and temperature.
+- Usage of a thermal sensor to measure the temperature of the engine oil.
+- Usage of a MLX 90614 infrared sensor to measure the temperature of the engine oil.
+- Low-cost and effective sensor management device is being used for support and maintenance.
+- Usage of a microprocessor to process the data collected from the sensors.
+- Data transmission to a shared cloud from where the mandate persons can access that data and can take the necessary actions regarding it.
 
 
 ### **Troubleshooting and FAQs**
