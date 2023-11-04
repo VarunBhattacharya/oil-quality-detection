@@ -7,7 +7,7 @@
 
 
 ### **Table of Contents**
-- [Trailer](#trailer)
+- [Demonstration](#demonstration)
 - [Business Problem](#business-problem)
 - [Requirements](#requirements)
 - [Installation Procedure](#installation-procedure)
@@ -17,7 +17,7 @@
 - [Licence](#licence)
 
 
-### **Trailer**
+### **Demonstration**
 [![Watch the video](https://img.youtube.com/vi/9Q1QZx7X3Zc/maxresdefault.jpg)](https://youtu.be/9Q1QZx7X3Zc)
 
 
