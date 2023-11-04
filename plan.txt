@@ -1,0 +1,43 @@
+10W, 30 --> 10 represents oil viscosity at cold temperature, 30 represents oil viscosity at hot temperature
+lower the value, less resistance it has
+
+
+Proposal
+-----
+oilQuad is a system which uses a viscometric device to determine car oil change intervals and sends information to a shared cloud from where the mandate persons can access that data and can take the necessary actions regarding it.
+
+Business Problem
+-----
+Often it is assumed that after a fixed time intervals, the car engine oil has to be altered for better performance. This process of assuming the fixed time interval can be very inefficiant, hampers the car's performance and also expensive. The car engine oil sometimes may not be fit to use before the given time interval or even sometimes after the time interval. The main need for such an issue lies whether the oil has to be changed at that moment or not by maintaining the car's performance level.
+
+Solution Proposed
+-----
+We seek to introduce an economical and efficient automated solution that can assess the quality of the oil and provide a clear signal when an oil change is genuinely needed. This innovation aims to enhance maintenance practices, reduce unnecessary oil changes, and improve the overall health and longevity of vehicle engines.
+
+Plan Proposal
+-----
+The plan is to incorporate the Thermal Sensors in the engine oil tube for measuring the oil viscosity as well as the temperature level of oil at regular intervals and monitoring it.
+
+-> Thermal Sensors use the concept of heat transfer to measure viscosity. This sensor actually heats a particular element and then measures the cooling rate as the oil flow passes through it. The rate at which heat dissipates or is conducted away by the fluid will give us the viscosity value.
+
+-> The thermal sensor consists of the heating element and the temperature sensor (i.e.. a thermistor or RTD). The heating element warms up, and the temperature sensor measures the rate of cooling or temperature change gives us the oil viscosity value.
+
+-> Viscous fluids will conduct heat more slowly, resulting in a slower temperature change compared to less viscous fluids. Higher the viscousity of the fluid, it appears more thicker and it becomes less effective at lubrication and can lead to poor enginer performance during cold condition and vice versa in hot condition.
+
+-> As the oil gets heated, it becomes oxidized and viscosity changes due to that.
+
+-> The sensors will then transmit the signal to the main microprocessor installed in the car internal system which will then transmit the data to the shared cloud in human readible format.
+
+-> The data will be stored in the shared cloud and based on the car engine oil viscosity rating (given as 10W, 30 (for eg.) where 10cP and 30cSt is the rating for hot and cold conditions) and based on the history of oil viscosity, the car owner and the dealership will be notified on it for taking the necessary actions regarding it.
+
+Installation Procedure
+-----
+-> Install the viscosity sensor in the engine oil tube or outside the engine oil tube using non-invasive methods for measuring the oil viscosity and temperature.
+
+-> Get the signals from the sensors and tranmit it to the microprocessor.
+
+-> Install the microprocessor in the car internal system for transmitting the data to the shared cloud.
+
+-> Have a shared cloud for storing the data and for accessing it.
+
+-> The data will be stored in the shared cloud and based on the car engine oil viscosity rating (given as 10W, 30 (for eg.) where 10cP and 30cSt is the rating for hot and cold conditions) and based on the history of oil viscosity, the car owner and the dealership will be notified on it for taking the necessary actions regarding it.
