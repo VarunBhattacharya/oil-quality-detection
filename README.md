@@ -77,5 +77,5 @@ This project is under <a href="https://mit-license.org/">MIT licence</a>.
 
 <hr>
 <center>
-    Made with &#10084;&#65039; by Varun Bhattacharya.
+    Made with &#10084;&#65039; by Varun Bhattacharya & Ketan Agrawal
 </center>
