@@ -1,6 +1,8 @@
 # **oilQuad**: To measure engine oil viscosity for efficient tracking of engine health
 
 
+![oilQuad](assets/logo.png)
+<br>
 **oilQuad** is a system which uses a custom viscometric device to determine car oil change intervals and sends information to a shared cloud from where the mandate persons can access that data and can take the necessary actions regarding it.
 
 
