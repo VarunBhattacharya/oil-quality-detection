@@ -69,12 +69,15 @@ Q. What is the purpose of using a shared cloud in this system ?
 A. To store the data collected from the sensor and to make it accessible to the mandate persons.
 
 ### **Credits**
+- Team Name: **MobiTech**
 - Varun Bhattacharya - <a href="https://www.linkedin.com/in/varunbhattacharya/">LinkedIn</a>, <a href="https://www.instagram.com/varunbhattacharya.in/">Instagram</a>, <a href="https://github.com/VarunBhattacharya/">GitHub</a>
 - Ketan Agrawal - <a href="https://www.linkedin.com/in/ketan-agrawal-b61a40205/">LinkedIn</a>, <a href="https://www.instagram.com/ketanagrawal_2002/">Instagram</a>, <a href="https://github.com/KetanAgrawal2002">GitHub</a>
 
 
 ### **Licence**
-This project is under <a href="https://mit-license.org/">MIT licence</a>.
+<!-- This project is under <a href="https://mit-license.org/">MIT licence</a>. -->
+This project is under <a href="/LICENSE.md">MIT licence</a>.
+
 
 
 <hr>
