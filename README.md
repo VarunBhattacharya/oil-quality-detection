@@ -76,7 +76,7 @@ A. To store the data collected from the sensor and to make it accessible to the 
 
 ### **Licence**
 <!-- This project is under <a href="https://mit-license.org/">MIT licence</a>. -->
-This project is under <a href="/LICENSE.md">MIT licence</a>.
+This project is under <a href="LICENSE.md">MIT licence</a>.
 
 
 
