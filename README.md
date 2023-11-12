@@ -55,16 +55,16 @@ Frequently, it is a prevalent practice to adhere to fixed time intervals when co
 
 
 ### **Troubleshooting and FAQs**
-Q. What is the purpose of building this project?
+Q. What is the purpose of building this project? <br>
 A. The primary issue at hand pertains to the determination of whether an immediate oil change is warranted in order to sustain optimal performance levels of the vehicle.
 
-Q. Which sensors are being used in this project?
+Q. Which sensors are being used in this project? <br>
 A. Viscosity Sensor (Thermal Sensors) and MLX 90614 infrared sensor.
 
-Q. What is the purpose of using a microprocessor in this system ?
+Q. What is the purpose of using a microprocessor in this system ? <br>
 A. To process the data collected from the sensor, convert it into human readable format and then send it to the shared cloud.
 
-Q. What is the purpose of using a shared cloud in this system ?
+Q. What is the purpose of using a shared cloud in this system ? <br>
 A. To store the data collected from the sensor and to make it accessible to the mandate persons.
 
 ### **Credits**
